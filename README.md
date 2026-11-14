@@ -30,6 +30,3 @@ Anyone is free to use this material: students, study groups, instructors, self-l
 
 This is for education and research only. Test only systems and networks you own or have written permission to test. The footprinting lab uses public data sources and does not send scanning traffic to the target. The scanning lab was run only on the author's own network. Unauthorised scanning or access is illegal in many countries. The author accepts no responsibility for how this material is used.
 
-## Author
-
-Abigail Kwablah
